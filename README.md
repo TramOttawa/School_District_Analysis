@@ -1,5 +1,5 @@
 # School_District_Analysis
-## Overview:
+## Overview
 The main analysis is to focus on the performance of math and reading scores which are disaggregated some points in the reports for a board meeting of the school district. After the school board reviewed the data, there was a suspection about the results of the report that are the data from Thomas High School's 9th grade class was dishonest. The school board asked for the data to be removed and analyzed again for a comparison.
 
 * ### How is the district summary affected?
@@ -54,12 +54,13 @@ There is a very little impact by school type.
 
 
 ## Summary: 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
-### The overall passing rate for Thomas High School changed dramatically from 91% to 65%.
+### Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
-### Thomas High School's ranking dropped from 2nd to almost the middle of 15 campuses.
+* #### The overall passing rate for Thomas High School changed dramatically from 91% to 65%.
 
-### Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School
+* #### Thomas High School's ranking dropped from 2nd to almost the middle of 15 campuses.
 
-### Beside the changes mentioned above, there was a little bit affects in others such as school spending scores, school size scores and school typle scores.
+* #### Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School
+
+* #### Beside the changes mentioned above, there was a little bit affects in others such as school spending scores, school size scores and school typle scores.
