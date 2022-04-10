@@ -11,14 +11,15 @@ When comparing the two charts, removing less than 500 test scores had a nominal 
 
 ![District_Summary_Original](https://user-images.githubusercontent.com/100484606/162596587-9398c82c-4144-4ed5-9d67-b44655bc4c16.JPG)
 
-* ### How is the school summary affected?
+* ### The school summary affected as follow:
 The original result of Thomas High School has the overall passing rate with 91%. After calculating the total number of grades 10th - 12th by removing grade 9th out of the dataset, the result of the overal passing rate of the school dropped from 91% to 65%.
 
 ![THSpassingrate_65_Current](https://user-images.githubusercontent.com/100484606/162600406-ec25d458-bb29-4362-b8f6-7806b92cabee.JPG)
 
 ![THSpassingrate_91_Original](https://user-images.githubusercontent.com/100484606/162600414-daae1629-d059-4d3d-ac8d-cd9aa6017199.JPG)
 
-### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### The placing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools as follow:
+
 * In the original report, Thomas High school ranked the 2nd place with 91% based on the overall passing score; however, with the current passing score of 65%, Thomas High school lost their position and drop to the middle of the rank.
 
 ### How does replacing the ninth-grade scores affect the following:
@@ -53,7 +54,7 @@ There is a very little impact by school type.
 ![Original_schooltype](https://user-images.githubusercontent.com/100484606/162601529-0014aa55-f65c-41d9-bf58-22ddfddc1487.JPG)
 
 
-## Summary: 
+## Summary
 
 ### Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
